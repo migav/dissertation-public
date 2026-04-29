@@ -1,0 +1,19 @@
+# Node
+node_modules/
+npm-debug.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large data file — tracked via Git LFS instead
+# (remove this line if not using LFS and you want to commit the DB directly)
+# data/funding_rate.db

@@ -1,0 +1,25 @@
+{
+  "name": "dissertation",
+  "version": "1.0.0",
+  "description": "Bitcoin Perpetual Futures Funding Rate Analysis",
+  "type": "module",
+  "main": "collect_bybit_funding_rate.js",
+  "scripts": {
+    "collect-bybit": "node collect_bybit_funding_rate.js"
+  },
+  "keywords": [
+    "bitcoin",
+    "funding-rate",
+    "perpetual-futures",
+    "bybit",
+    "binance"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sqlite3": "^5.1.6",
+    "bybit-api": "^4.0.0",
+    "axios": "^1.6.0",
+    "orderbooks": "^1.0.0"
+  }
+}

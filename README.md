@@ -3,7 +3,7 @@
 Replication code and data for the dissertation:
 
 > **"Evaluating the Efficiency of the Funding Rate Mechanism in Bitcoin Perpetual Futures on Binance vs Bybit"**  
-> BSc Business Management with Finance, University of Birmingham, 2026
+> BSc Business Management with Finance, University of Birmingham Dubai, 2026
 
 ---
 
